@@ -1,3 +1,5 @@
+You can go to Google Play page of this Analect Image Manipulation app with this link:
+https://play.google.com/store/apps/details?id=com.afo.image_manipulation
 # AIM_Privacy
 Privacy Policy
 Şevket Büyükdemir built the AIM app as a Free app. This SERVICE is provided by Şevket Büyükdemir at no cost and is intended for use as is.
